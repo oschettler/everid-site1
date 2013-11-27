@@ -1,4 +1,5 @@
-name: The site
+name: Cool Site
+feedback_form: true
 section1:
   var2: Val #2
   var1: Val #1
