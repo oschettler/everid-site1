@@ -53,9 +53,9 @@
       <a title="How can we assist you?" href="#feedback-modal" class="btn btn-info fixed-bottom" data-toggle="modal">
         <i class="icon-exclamation-sign icon-white"></i> Contact
       </a>
-      <form class="modal fade" id="feedback-modal" role="dialog">
+      <div class="modal fade" id="feedback-modal" role="dialog">
         <div class="modal-dialog">
-          <div class="modal-content">
+          <form class="modal-content">
             <div class="modal-header">
               <a class="close" data-dismiss="modal">×</a>
               <h4 class="modal-title">Your direct link to us</h4>
@@ -68,9 +68,9 @@
             <div class="modal-footer">
               <button type="submit" class="btn btn-primary">Send</button>
             </div>
-          </div><!-- .modal-content -->
+          </form><!-- .modal-content -->
         </div><!-- .modal-dialog -->
-      </form>
+      </div>
       <script src="//feedback.schettler.net/contact.js"></script>
     {% endif %}
   </body>
