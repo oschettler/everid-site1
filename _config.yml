@@ -1,8 +1,1 @@
-name: Cool Site
-feedback_form: true
-section1:
-  var2: Val #2
-  var1: Val #1
-section2:
-  var4: Val #4
-  var3: Val #3
+name: Site #1 - sync'ed with webhook
