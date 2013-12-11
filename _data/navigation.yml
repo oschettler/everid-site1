@@ -2,7 +2,7 @@
   url: ./
 - text: About
   url: ./about.html
+- text: Contact
+  url: ./contact.html
 - text: Tralla
   url: ./tralla.html
-- text: Walk Through
-  url: ./walk-through.html
